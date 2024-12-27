@@ -19,7 +19,7 @@ Nothing is—nor can be—100% accessible. Anyone who claims their offering is c
 
 ## By default or death
 
-Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. If you have to use an inaccessible interface to enable accessibility, you’re already screwed. A low-contrast switch that turns on high contrast? Game over. Categorically, accessibility overlay software does not and cannot work. Adding _accessibility stuff_ on top of inaccessible stuff does not address what needs to be addressed. The specific features offered by such third-party interlopers are immaterial. Resist the ideology of _post hoc_ accessibility at all costs. A Minimum Viable Product without accessibility is not—even minimally—viable. 
+Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. If you have to use an inaccessible interface to _enable_ accessibility, you’re doomed. A low-contrast switch that turns on high contrast? Game over. Categorically, accessibility overlay software does not and cannot work. Adding _accessibility stuff_ on top of inaccessible stuff does not address what needs to be addressed. The specific features offered by such third-party interlopers are immaterial. Resist the ideology of _post hoc_ accessibility at all costs. A Minimum Viable Product without accessibility is not—even minimally—viable. 
 
 ## Parity is paramount
 
@@ -27,7 +27,7 @@ The point is not to create a better experience, or even a good experience. It’
 
 ## What before how
 
-They say form should follow function. But most organizations design first and develop second. The design phase consists of graphical ideation and leaves too many implementation questions unanswered. Often it is impossible to adapt the design effectively—least of all for accessibility. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the form we call the “design”. Accessibility specialists must be included in high-level design, because form must follow function and the function must be accessible. Solve _what the thing should be_ before _what the thing should be made of_.
+They say form should follow function. But most organizations design first and develop second. The design phase consists of graphical ideation and leaves too many implementation questions unanswered. Often it is impossible to adapt the design effectively—least of all for accessibility. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the form we call the “design”. Accessibility specialists must be included in high-level design, because form must follow function and the function must be accessible. 
 
 ## Tools are not identities
 
