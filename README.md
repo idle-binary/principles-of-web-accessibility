@@ -27,7 +27,7 @@ The point is not to create a better experience, or even a good experience. It’
 
 ## What before how
 
-They say form should follow function. But most organizations design first and develop second. The design phase consists of graphical ideation and leaves too many implementation questions unanswered. Often it is impossible to adapt the design effectively—least of all for accessibility. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the form we call the “design”. Accessibility specialists must be included in high-level design, because form must follow function and the function must be accessible. Solve _what the thing should be_ before _what should the thing be made of_.
+They say form should follow function. But most organizations design first and develop second. The design phase consists of graphical ideation and leaves too many implementation questions unanswered. Often it is impossible to adapt the design effectively—least of all for accessibility. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the form we call the “design”. Accessibility specialists must be included in high-level design, because form must follow function and the function must be accessible. Solve _what the thing should be_ before _what the thing should be made of_.
 
 ## Tools are not identities
 
