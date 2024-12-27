@@ -35,7 +35,7 @@ Different screen reader users use different screen reader software in different 
 
 ## No points for performance
 
-In the midst of the COVID-19 pandemic, UK citizens applauded our frontline medical staff by congregating on our doorsteps to bang kitchenware together. My next-door neighbor, a doctor working grueling shifts, would be rudely awoken by the cacophony. Most accessibility-related endeavors I’ve encountered are performative only. Companies hire accessibility professionals and don’t give them the necessary resources. They commission research with disabled participants and refuse to interpret the feedback. They pay for audits and don’t implement the recommendations. If you want to make a real difference, learn to distinguish praxis from performance.
+In the midst of the COVID-19 pandemic, UK citizens applauded our frontline medical staff by congregating on our doorsteps to bang kitchenware together. My next-door neighbor, a doctor working grueling shifts, would be rudely awoken by the cacophony. Most accessibility-related endeavors I’ve encountered are performative only. Companies hire accessibility professionals and don’t give them the necessary resources. They commission research with disabled participants and refuse to interpret the feedback. They pay for audits and don’t implement the recommendations. If you want to make a real difference, demand praxis in place of performance.
 
 ## Less is less
 
