@@ -11,7 +11,7 @@
  
 ## Help evil to fail
 
-Not everything inaccessible should be made accessible. If a product or application is inherently exploitative or addictive, trades in misinformation and hatred, or just makes the world worse, do not help it to either succeed or to avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately effected by their f\*\*kery). Where you draw the line between acceptable and despicable is a question for your own moral compass. But you need to draw a line somewhere. It makes your identity as a designer more coherent and helps insulate you, personally, from having to deal with psychopaths. 
+Not everything inaccessible should be made accessible. If a product or application is inherently exploitative or addictive, trades in misinformation and hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately effected by their f\*\*kery). Where you draw the line between acceptable and despicable is a question for your own moral compass. But you need to draw a line somewhere. It makes your identity as a designer more coherent and helps insulate you, personally, from having to deal with psychopaths. 
 
 ## Perfection is the enemy
 
