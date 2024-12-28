@@ -31,7 +31,7 @@ They say form should follow function. But most organizations design first and de
 
 ## Tools are not identities
 
-Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. Disability is no more uniform than ability. There is no persona that can adequately exemplify a screen reader user or their behaviour. So you don’t design for screen reader users (or any other fictionalized homogenous group). Instead, you design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and should be.
+Disability is no more uniform than ability. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. There is no persona that can adequately exemplify a screen reader user or their behaviour. So you don’t design for screen reader users (or any other fictionalized homogenous group). Instead, you design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and should be.
 
 ## No points for performance
 
