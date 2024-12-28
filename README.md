@@ -23,7 +23,7 @@ Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. 
 
 ## Parity is paramount
 
-The point is not to create a better experience, or even a good experience. It’s to ensure a _comparable_ experience. Interfaces should not be challenging to some and not to others. But some interfaces are necessarily complex and some content is inherently esoteric. You do not get to choose who can handle what. If an image serves as a joke, the alternative text should not give the joke away or explain why it is funny. It should be _telling the same joke by alternative means_. Not everyone will have the reference points to get the joke, but that’s someone else’s problem.
+The point is not to create a better experience, or even a good experience. It’s to ensure a _comparable_ experience. Interfaces should not be challenging to some and not to others. But some interfaces are necessarily complex and some content is inherently esoteric. You do not get to choose who can handle what. If an image serves as a joke, the alternative text should not give the joke away or explain why it is funny. It should be _telling the same joke by alternative means_. Not everyone will have the reference points to get the joke, but that’s a different problem.
 
 ## What before how
 
