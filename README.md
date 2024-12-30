@@ -5,9 +5,11 @@
 * [By default or death](#by-default-or-death)
 * [Parity is paramount](#parity-is-paramount)
 * [What before how](#what-before-how)
+* [Use your words](#use-your-words)
 * [Tools are not identities](#tools-are-not-identities)
 * [No points for performance](#no-points-for-performance)
 * [Less is less](#less-is-less)
+* [Fishing, not fish](#fishing-not-fish)
  
 ## Help evil to fail
 
@@ -29,6 +31,10 @@ The point is not to create a better experience, or even a good experience. It’
 
 They say form should follow function. But most organizations design first and develop second. The design phase consists of graphical ideation and leaves too many implementation questions unanswered. Often it is impossible to adapt the design effectively—least of all for accessibility. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the form we call the “design”. Accessibility specialists must be included in high-level design, because form must follow function and the function must be accessible. 
 
+## Use your words
+
+A considerable proportion of web accessibility is about providing text labels. Buttons, links, and inputs must all have labels, of course. But page titles and headings are also important types of label. Including a label may placate an automated accessibility testing rig, but the label’s wording makes the real difference. Good writing cannot be automated. Artificial Intelligence cannot anticipate your intent. You need to learn to write and edit.
+
 ## Tools are not identities
 
 Disability is no more uniform than ability. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. There is no persona that can adequately exemplify a screen reader user or their behaviour. So you don’t design for screen reader users (or any other fictionalized homogenous group). Instead, you design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and should be.
@@ -40,3 +46,9 @@ In the midst of the COVID-19 pandemic, UK citizens applauded our frontline medic
 ## Less is less
 
 The mantra “less is more” is incorrect. Less is just less and that's a good thing. Too much of interface engineering is done because others have done it or just to prove it can be done. Stop. The more we do, and the more complex the output becomes, the more likely it will fail. And not just by producing discrete errors and breakdowns; more importantly by resisting comprehension. Most components, in most cases, should just be content. Turning headings, paragraphs, and lists into an accessible tab interface is not an enhancement. It’s a degradation with bragging rights.
+
+## Fishing, not fish
+
+Designing accessible products and interfaces starts with designing the organizations that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might undo it tomorrow? Accessible design might mean building a frontend team consisting of developers actually well-versed in the frontend. It might mean retiring a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you're fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
+
+
