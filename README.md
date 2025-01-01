@@ -1,6 +1,7 @@
 # Accessible Design Principles
 
 * [Help evil to fail](#help-evil-to-fail)
+* [Fishing, not fish](#fishing-not-fish)
 * [Perfection is the enemy](#perfection-is-the-enemy)
 * [By default or death](#by-default-or-death)
 * [Parity is paramount](#parity-is-paramount)
@@ -9,11 +10,14 @@
 * [Tools are not identities](#tools-are-not-identities)
 * [No points for performance](#no-points-for-performance)
 * [Less is less](#less-is-less)
-* [Fishing, not fish](#fishing-not-fish)
  
 ## Help evil to fail
 
 Not everything inaccessible should be made accessible. If a product or application is inherently exploitative or addictive, trades in misinformation and hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately effected by their practices). Where you draw the line between acceptable and despicable is a question for your own moral compass. But drawing that line makes your identity as a designer more coherent and helps insulate you, personally, from having to work with psychopaths. 
+
+## Fishing, not fish
+
+Designing accessible products and interfaces starts with designing the organizations that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might _undo_ it tomorrow? Accessible design might mean building a frontend team consisting of developers well-versed in the frontend. It might mean retiring a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you're fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
 
 ## Perfection is the enemy
 
@@ -47,8 +51,5 @@ Companies tend to prioritize _looking_ like they are addressing accessibility ov
 
 The mantra _less is more_ is incorrect. Less is just less and that’s a good thing. Too much of interface engineering is done because others have done it or just to prove it can be done. Stop. The more we do, and the more complex the output becomes, the more likely it will fail. And not just by producing discrete errors and breakdowns; more importantly by resisting comprehension. Most components, in most cases, should just be content. Content should rarely be hidden behind an interaction. Turning headings, paragraphs, and lists into an accessible tab interface is not an enhancement. It’s a degradation with bragging rights.
 
-## Fishing, not fish
-
-Designing accessible products and interfaces starts with designing the organizations that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might _undo_ it tomorrow? Accessible design might mean building a frontend team consisting of developers well-versed in the frontend. It might mean retiring a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you're fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
 
 
