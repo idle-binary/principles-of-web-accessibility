@@ -21,7 +21,7 @@ Nothing is—nor can be—100% accessible. Anyone who claims their offering is c
 
 ## By default or death
 
-Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. If an interface offers the option to enable accessibility, it is inaccessible. A low-contrast switch that turns on high contrast? Game over. Categorically, accessibility overlay software does not and cannot work. Adding _accessibility stuff_ on top of _inaccessible stuff_ does not address what needs to be addressed. The specific features offered by such third-party interlopers are immaterial. Resist the ideology of _post hoc_ accessibility at all costs. A Minimum Viable Product without accessibility, by default, is not—even minimally—viable. 
+Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. If an interface offers the option to enable accessibility, it is inaccessible. A low-contrast switch that turns on high contrast? Game over. Categorically, accessibility overlay software does not and cannot work. Adding _accessibility stuff_ on top of _inaccessible stuff_ does not address what needs to be addressed. The specific features offered by such third-party interlopers are immaterial. Resist the ideology of _post hoc_ accessibility at all costs. A Minimum Viable Product without accessibility is not—even minimally—viable. 
 
 ## Parity is paramount
 
