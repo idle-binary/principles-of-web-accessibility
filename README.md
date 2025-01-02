@@ -21,19 +21,19 @@ Designing accessible products and interfaces starts with designing the organizat
 
 ## Perfection is the enemy
 
-Nothing is—nor can be—100% accessible. Anyone who claims their offering is completely accessible is a liar, or they don't understand accessibility, or both. Usually both. It's okay to deliver inaccessible work, so long as it’s _more_ accessible. Do what you can within the constraints given. If the constraints are unreasonable, challenge those first. You may not feel confident you are the best person available to work on accessibility. The important thing is that you _are_ available. Don’t leave the work to absent (and nonexistent) accessibility superheroes. 
+Nothing is—nor can be—100% accessible. Anyone who claims their offering is completely accessible is a liar, or they don't understand accessibility, or both. Usually both. It's okay to deliver inaccessible work, so long as it’s _more_ accessible. Do what you can within the constraints given. If the constraints are unreasonable, challenge those first. You may not feel confident you are the best person available for contributing to accessibility. The important thing is that you _are_ available. Don’t leave the work to absent (and nonexistent) accessibility superheroes. 
 
 ## By default or death
 
-Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. If an interface offers the option to enable accessibility, it is inaccessible. A low-contrast switch that turns on high contrast? Game over. Categorically, accessibility overlay software does not and cannot work. Adding _accessibility stuff_ on top of _inaccessible stuff_ does not address what needs to be addressed. The specific features offered by such third-party interlopers are immaterial. Resist the ideology of _post hoc_ accessibility at all costs. A Minimum Viable Product without accessibility is not—even minimally—viable. 
+Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. If an interface offers the option to _enable_ accessibility, it is inaccessible. A low-contrast switch that turns on high contrast? Game over. Categorically, accessibility overlay software does not and cannot work. Adding _accessibility stuff_ on top of _inaccessible stuff_ does not address what needs to be addressed. The specific features offered by such third-party interlopers are immaterial. Resist the ideology of _post hoc_ accessibility at all costs. A Minimum Viable Product (MVP) without accessibility is not—even minimally—viable. 
 
 ## Parity is paramount
 
-The point is not to create a better experience, or even a good experience. It’s to ensure a _comparable_ experience. Interfaces should not be challenging to some and not to others. But some interfaces are necessarily complex and some content is inherently esoteric. You do not get to choose who can handle what. If an image serves as a joke, the alternative text should not give the joke away or explain why it is funny. It should be _telling the same joke by alternative means_. The joke may be offensive to some or inexplicable to others. These are shortcomings of _inclusion_, not accessibility.
+The point is not to create a better experience, or even a good experience. It’s to ensure a _comparable_ experience. Interfaces should not be challenging to some and not to others, but some interfaces are necessarily complex and some content is inherently esoteric. You do not get to choose who can handle what. If an image serves as a joke, the alternative text should not give the joke away or explain why it is funny. It should _tell the same joke by alternative means_. The joke may be offensive to some or inexplicable to others. These are shortcomings of _inclusivity_, not accessibility.
 
 ## Design for implementation
 
-They say form should follow function. But most organizations design first and develop second. The design phase consists of purely graphical ideation and leaves too many implementation questions unanswered. Developers are encouraged to prioritize visual approximation over usability. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the so-called _design_. Accessibility must be a high-level design consideration. Form must follow function and the function needs to be accessible.
+They say form should follow function. But most organizations design first and develop second. The design phase consists of purely graphical ideation and leaves too many implementation questions unanswered. Developers are encouraged to prioritize visual approximation over usability. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the so-called _design_. Accessibility must be a high-level design consideration. Because form must follow function and the function needs to be accessible.
 
 ## Use your words
 
@@ -41,7 +41,7 @@ A considerable proportion of web accessibility is about providing text labels. B
 
 ## Tools are not identities
 
-Disability is no more uniform than ability. Take screen reader users. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. If they are using screen reader software at all, that is. There is no persona that can adequately exemplify a screen reader user or their behaviour. There is no screen reader user who speaks for screen reader users. So don’t design for screen reader users (or any other fictionalized homogenous group). Design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and are.
+Disability is no more uniform than ability. Take screen reader users. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. There is no persona that can adequately exemplify a screen reader user or their behaviour. There is no screen reader user who speaks for screen reader users. So don’t design for screen reader users (or any other fictionalized homogenous group). Design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and are.
 
 ## No points for performance
 
@@ -49,7 +49,7 @@ Companies tend to prioritize _looking_ like they are addressing accessibility ov
 
 ## Less is less
 
-The mantra _less is more_ is incorrect. Less is just less and that’s a good thing. Too much of interface engineering is done because others have done it or just to prove it can be done. Stop. The more we do, and the more complex the output becomes, the more likely it will fail. And not just by producing discrete errors and breakdowns; more importantly by resisting comprehension. Most components, in most cases, should just be content. Content should rarely be hidden behind an interaction. Turning headings, paragraphs, and lists into an accessible tab interface is not an enhancement. It’s a degradation with bragging rights.
+The mantra _less is more_ is incorrect. Less is just less and that’s a good thing. Too much of interface engineering is done because others have done it or just to prove it can be done. Stop. The more we do, and the more complex the output becomes, the more likely it will fail. And not just by producing discrete errors and breakdowns; more importantly by resisting comprehension. Most components, in most cases, should just be content. Content should rarely be hidden behind a button. Turning headings, paragraphs, and lists into an accessible tab interface is not an enhancement. It’s a degradation with bragging rights.
 
 
 
