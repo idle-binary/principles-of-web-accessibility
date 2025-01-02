@@ -8,9 +8,9 @@
 * [Structure first](#structure-first)
 * [Use your words](#use-your-words)
 * [Tools are not identities](#tools-are-not-identities)
-* [No points for performance](#no-points-for-performance)
 * [Less is less](#less-is-less)
 * [Fishing, not fish](#fishing-not-fish)
+* [No points for performance](#no-points-for-performance)
  
 ## Help evil to fail
 
@@ -42,11 +42,7 @@ A considerable proportion of web accessibility is about providing text labels. B
 
 ## Tools are not identities
 
-Disability is no more uniform than ability. Take screen reader users. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. There is no persona that can adequately exemplify a screen reader user or their behaviour. There is no screen reader user who speaks for screen reader users. So don’t design for screen reader users (or any other fictionalized homogenous group). Design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and are.
-
-## No points for performance
-
-Companies tend to prioritize _looking_ like they are addressing accessibility over actually doing it. They hire accessibility professionals and don’t give them the necessary resources. They commission research with disabled participants and refuse to interpret the feedback. They pay for audits and don’t implement the recommendations. They tell you color contrast needs to be assessed but won’t budge on any color relating to their sacred brand. If you want to make a real difference, demand praxis in place of performance.
+Disability is no more uniform than ability. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. There is no persona that can adequately exemplify a screen reader user or their behaviour. There is no screen reader user who speaks for screen reader users. So don’t design for screen reader users (or any other fictionalized homogenous group). Design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and are.
 
 ## Less is less
 
@@ -56,3 +52,6 @@ The mantra _less is more_ is incorrect. Less is just less and that’s a good th
 
 Designing accessible products and interfaces starts with designing the organizations that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might _undo_ it tomorrow? Accessible design might mean building a frontend team consisting of developers well-versed in the frontend. It might mean retiring a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you're fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
 
+## No points for performance
+
+Companies tend to prioritize _looking_ like they are addressing accessibility over actually doing it. They hire accessibility professionals and don’t give them the necessary resources. They commission research with disabled participants and refuse to interpret the feedback. They pay for audits and don’t implement the recommendations. They tell you color contrast needs to be assessed but won’t budge on any color relating to their sacred brand. If you want to make a real difference, demand praxis in place of performance.
