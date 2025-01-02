@@ -34,7 +34,7 @@ They say form should follow function. But most organizations design first and de
 
 ## Structure first
 
-A poorly structured interface can technically pass WCAG. A well-structured and intuitive interface can have multiple discrete WCAG errors. Chances are, the latter is more accessible to most. Automated accessibility tools are only really good at locating the discrete errors. These may be helpful diagnostically, but you need to take a holistic view. What will confuse or overwhelm people? Where will people get tripped up? It’s likely rewriting and restructuring the interface will have a greater impact than ticking off a list of individual success criteria.
+A poorly structured interface can technically pass WCAG. A well-structured and intuitive interface can have multiple discrete WCAG errors. Chances are, the latter is more accessible to most. Automated accessibility tools are only really good at locating discrete errors. These may be helpful diagnostically, but you need to take a holistic view. What will confuse or overwhelm people? Where will people get tripped up? Don’t waste time ticking off individual success criteria when the entire structure needs redesigning.
 
 ## Use your words
 
