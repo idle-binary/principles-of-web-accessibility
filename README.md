@@ -1,5 +1,7 @@
 # Principles Of Web Accessibility
 
+_A set of high-level guiding principles for approaching design and remediation for an accessible web._
+
 * [Help evil to fail](#help-evil-to-fail)
 * [Perfection is the enemy](#perfection-is-the-enemy)
 * [By default or death](#by-default-or-death)
