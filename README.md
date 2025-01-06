@@ -10,6 +10,7 @@ _A set of high-level guiding principles for approaching design and remediation f
 * [Use your words](#use-your-words)
 * [Tools are not identities](#tools-are-not-identities)
 * [Less is less](#less-is-less)
+* [Get paid](#get-paid)
 * [Fishing, not fish](#fishing-not-fish)
 * [No points for performance](#no-points-for-performance)
 * [Help evil to fail](#help-evil-to-fail)
@@ -45,6 +46,10 @@ Disability is no more uniform than ability. Different screen reader users use di
 ## Less is less
 
 The mantra _less is more_ is incorrect. Less is just less and that’s a good thing. Too much of interface engineering is done because others have done it or just to prove it can be done. Stop. The more we do, and the more complex the output becomes, the more likely it will fail. And not just by producing discrete errors and breakdowns; more importantly by resisting comprehension. Most components, in most cases, should just be content. Content should rarely be hidden behind a button. Turning headings, paragraphs, and lists into an accessible tab interface is not an enhancement. It’s a degradation with bragging rights.
+
+## Get paid
+
+Don’t let your enthusiasm for accessibility work be exploited. Like any work, the more people who do it for free, the less it is valued. Accessibility work is not an optional extra, a hobby, or a kindness. It is a foundational part of sound interface design. If you are paid to work and you work on accessibility, it should be defined as part of your role. Accessibility work must be compensated and rewarded like any other work. Where _“accessibility is everyone’s job”_, it’s often nobody’s. Be wary of that kind of rhetoric.
 
 ## Fishing, not fish
 
