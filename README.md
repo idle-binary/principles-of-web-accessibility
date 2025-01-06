@@ -29,7 +29,7 @@ The point is not to create a better experience, or even a good experience. It’
 
 ## Design for implementation
 
-They say form should follow function. But most organizations design first and develop second. The design phase consists of purely graphical ideation and leaves too many implementation questions unanswered. Consequently, developers are encouraged to prioritize visual approximation over usability. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the so-called _design_. As an accessibility practitioner, you must contribute early and at a conceptual level. Because form must follow function and the function needs to be accessible.
+They say form should follow function. But most organizations design first and develop second. The design phase consists of purely graphical ideation and leaves too many implementation questions unanswered. Consequently, developers are encouraged to prioritize visual approximation over usability. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the so-called _design_. As an accessibility practitioner, you must contribute early and at a conceptual level. Because form must follow function and the function must be accessible.
 
 ## Structure first
 
