@@ -40,7 +40,7 @@ A considerable proportion of web accessibility is about providing text labels. B
 
 ## Tools are not identities
 
-Disability is no more uniform than ability. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. There is no persona that can adequately exemplify a screen reader user or their behaviour. There is no screen reader user who speaks for screen reader users. So don’t design for screen reader users (or any other fictionalized homogenous group). Design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and are.
+Disability is no more uniform than ability. Different screen reader users use different screen reader software in different ways for different reasons in different circumstances to meet different needs and preferences. That is, if they are using screen reader software at all. There is no persona that can adequately exemplify a screen reader user or their behaviour. There is no screen reader user who speaks for all screen reader users. So don’t design for screen reader users (or any other fictionalized homogenous group). Design to support the capabilites of screen reader software. People cannot—and should not—be quantified, but inputs and outputs can and are.
 
 ## Less is less
 
@@ -56,4 +56,4 @@ Companies tend to prioritize _looking_ like they are addressing accessibility ov
 
 ## Help evil to fail
 
-Not everything inaccessible should be made accessible. SOme things shouldn’t exist at all. If a product or application is inherently exploitative or addictive, trades in misinformation or hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately affected by their practices). Where you draw the line between acceptable and despicable is a question of personal morality. But drawing the line makes your offering as a practitioner coherent.
+Not everything inaccessible should be made accessible. Some things shouldn’t exist at all. If a product or application is inherently exploitative or addictive, trades in misinformation or hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately affected by their practices). Where you draw the line between acceptable and despicable is a question of personal morality. But drawing the line makes your offering as a practitioner coherent.
