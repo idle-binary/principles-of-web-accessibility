@@ -2,7 +2,6 @@
 
 _A set of high-level guiding principles for approaching design and remediation for an accessible web._
 
-* [Help evil to fail](#help-evil-to-fail)
 * [Perfection is the enemy](#perfection-is-the-enemy)
 * [By default or death](#by-default-or-death)
 * [Parity is paramount](#parity-is-paramount)
@@ -13,10 +12,7 @@ _A set of high-level guiding principles for approaching design and remediation f
 * [Less is less](#less-is-less)
 * [Fishing, not fish](#fishing-not-fish)
 * [No points for performance](#no-points-for-performance)
- 
-## Help evil to fail
-
-Not everything inaccessible should be made accessible. If a product or application is inherently exploitative or addictive, trades in misinformation or hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately affected by their practices). Where you draw the line between acceptable and despicable is a question of personal morality. But drawing the line makes your offering as a practitioner coherent.
+* [Help evil to fail](#help-evil-to-fail)
 
 ## Perfection is the enemy
 
@@ -57,3 +53,7 @@ Designing accessible products and interfaces starts with designing the organizat
 ## No points for performance
 
 Companies tend to prioritize _looking_ like they are addressing accessibility over actually doing it. They hire accessibility professionals and don’t give them the necessary resources. They commission research with disabled participants and refuse to interpret the feedback. They pay for audits and don’t implement the recommendations. They tell you color contrast needs to be assessed but won’t budge on any color relating to their sacred brand. If you want to make a real difference, demand praxis in place of performance.
+
+## Help evil to fail
+
+Not everything inaccessible should be made accessible. SOme things shouldn’t exist at all. If a product or application is inherently exploitative or addictive, trades in misinformation or hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately affected by their practices). Where you draw the line between acceptable and despicable is a question of personal morality. But drawing the line makes your offering as a practitioner coherent.
