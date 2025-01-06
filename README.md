@@ -49,7 +49,7 @@ The mantra _less is more_ is incorrect. Less is just less and that’s a good th
 
 ## Get paid
 
-Don’t let your enthusiasm for accessibility work be exploited. Like any work, the more people who do it for free, the less it is valued. Accessibility work is not an optional extra, a hobby, or a kindness. It is a foundational part of sound interface design. If you are paid to work and you work on accessibility, it should be defined as part of your role. Accessibility work must be compensated and rewarded like any other work. Where _“accessibility is everyone’s job”_, it’s often nobody’s. Beware of that rhetoric.
+Don’t let your enthusiasm for accessibility work be exploited. Like any work, the more people do it for free, the less it is valued. Accessibility work is not an optional extra, a hobby, or a kindness. It is a foundational part of sound interface design. If you are paid to work and you work on accessibility, it should be defined as part of your role. Accessibility work must be compensated and rewarded like any other work. Where _“accessibility is everyone’s job”_, it’s often nobody’s. Beware of that rhetoric.
 
 ## Fishing, not fish
 
