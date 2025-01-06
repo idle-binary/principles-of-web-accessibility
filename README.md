@@ -1,4 +1,4 @@
-# Accessible Design Principles
+# Principles Of Web Accessibility
 
 * [Help evil to fail](#help-evil-to-fail)
 * [Perfection is the enemy](#perfection-is-the-enemy)
@@ -14,11 +14,11 @@
  
 ## Help evil to fail
 
-Not everything inaccessible should be made accessible. If a product or application is inherently exploitative or addictive, trades in misinformation and hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately effected by their practices). Where you draw the line between acceptable and despicable is a question for your own moral compass. But drawing that line makes your identity as a designer more coherent and helps insulate you, personally, from having to work with psychopaths. 
+Not everything inaccessible should be made accessible. If a product or application is inherently exploitative or addictive, trades in misinformation or hatred, or just makes the world worse, do not help it to succeed or avoid litigation. Proprietors of such products do not deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately affected by their practices). Where you draw the line between acceptable and despicable is a question of personal morality. But drawing the line makes your offering as a practitioner coherent.
 
 ## Perfection is the enemy
 
-Nothing is—nor can be—100% accessible. Anyone who claims their offering is completely accessible is a liar, or they don't understand accessibility, or both. Usually both. It's okay to deliver inaccessible work, so long as it’s _more_ accessible. Do what you can within the constraints given. If the constraints are unreasonable, challenge those first. You may not feel confident you are the best person available for contributing to accessibility. The important thing is that you _are_ available. Don’t leave the work to absent (and nonexistent) accessibility superheroes. 
+Nothing is—nor can be—100% accessible. Anyone who claims their offering is completely accessible is a liar, or they don't understand accessibility, or both. Usually both. It's okay to deliver inaccessible work, so long as it’s _more_ accessible. Do what you can within the constraints given. If the constraints are unreasonable, challenge those first. You may not feel confident you are always the best person available for contributing to accessibility. The important thing is that you _are_ available. Don’t leave the work to absent (and nonexistent) accessibility superheroes. 
 
 ## By default or death
 
@@ -26,15 +26,15 @@ Accessibility fundamentally does not work as a plugin, add-on, or opt-in state. 
 
 ## Parity is paramount
 
-The point is not to create a better experience, or even a good experience. It’s to ensure a _comparable_ experience. Interfaces should not be challenging to some and not to others, but some interfaces are necessarily complex and some content is inherently esoteric. You do not get to choose who can handle what. If an image serves as a joke, the alternative text should not give the joke away or explain why it is funny. It should _tell the same joke by alternative means_. The joke may be offensive to some or inexplicable to others. These are shortcomings of _inclusivity_, not accessibility.
+The point is not to create a better experience, or even a good experience. It’s to ensure a _comparable_ experience between different people. Interfaces should not be challenging to some and not to others, but some interfaces are necessarily complex and some content is inherently esoteric. You do not get to choose who is interested in—or can cope with—what. If an image serves as a joke, the alternative text should not give the joke away or explain why it is funny. It should _tell the same joke by alternative means_. The joke may be offensive to some or inexplicable to others. These are shortcomings of _inclusivity_, not accessibility.
 
 ## Design for implementation
 
-They say form should follow function. But most organizations design first and develop second. The design phase consists of purely graphical ideation and leaves too many implementation questions unanswered. Developers are encouraged to prioritize visual approximation over usability. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the so-called _design_. Accessibility must be a high-level design consideration. Because form must follow function and the function needs to be accessible.
+They say form should follow function. But most organizations design first and develop second. The design phase consists of purely graphical ideation and leaves too many implementation questions unanswered. Consequently, developers are encouraged to prioritize visual approximation over usability. Drag-and-drop interfaces need to be operable by keyboard. This means buttons need to be provided. Those buttons will need to appear in the so-called _design_. As an accessibility practitioner, you must contribute to high-level design. Because form must follow function and the function needs to be accessible.
 
 ## Structure first
 
-A poorly structured interface can technically pass WCAG. A well-structured and intuitive interface can have multiple discrete WCAG errors. Chances are, the latter is more accessible to most. Automated accessibility tools are only really good at locating discrete errors. These may be helpful diagnostically, but you need to take a holistic view. What will confuse or overwhelm people? Where will people get tripped up? Don’t waste time ticking off individual success criteria when the entire structure needs redesigning.
+A poorly structured interface can technically pass WCAG. A well-structured and intuitive interface can have multiple discrete WCAG errors. Chances are, the latter is more accessible to most. Automated accessibility tools are only really good at locating discrete errors. These may be helpful diagnostically, but you need to take a holistic view. What will confuse or overwhelm people? Where will people get tripped up? Don’t waste time ticking off individual success criteria when the underlying structure needs redesigning.
 
 ## Use your words
 
@@ -50,7 +50,7 @@ The mantra _less is more_ is incorrect. Less is just less and that’s a good th
 
 ## Fishing, not fish
 
-Designing accessible products and interfaces starts with designing the organizations that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might _undo_ it tomorrow? Accessible design might mean building a frontend team consisting of developers well-versed in the frontend. It might mean retiring a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you're fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
+Designing accessible products and interfaces starts with designing the organizations that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might _undo_ it tomorrow? Accessible design might mean building a frontend team consisting of developers well-versed in the frontend. It might mean retiring a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you’re fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
 
 ## No points for performance
 
