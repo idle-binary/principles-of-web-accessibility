@@ -13,7 +13,7 @@ _A set of high-level guiding principles for approaching web accessibility._
 * [Get paid](#get-paid)
 * [Fishing, not fish](#fishing-not-fish)
 * [No points for performance](#no-points-for-performance)
-* [Help evil to fail](#help-evil-to-fail)
+* [Let evil rot](#let-evil-rot)
 
 ## Perfection is the enemy
 
@@ -59,6 +59,6 @@ Designing accessible products and interfaces starts with designing the organizat
 
 Companies tend to prioritize _looking_ like they are addressing accessibility over actually doing it. They hire accessibility professionals and don’t give them the necessary resources. They commission research with disabled participants and refuse to interpret the feedback. They pay for audits and don’t implement the recommendations. They tell you color contrast needs to be assessed but won’t budge on any color relating to their sacred brand. If you want to make a real difference, demand praxis in place of performance.
 
-## Help evil to fail
+## Let evil rot
 
-Not everything should be accessible. Some things shouldn’t exist at all. If a product or application is inherently exploitative or addictive, trades in misinformation or hatred, or just makes the world worse, it doesn’t deserve _any_ customers or users, least of all disabled or otherwise marginalized ones (who may be disproportionately affected by their practices). Prioritize working with ethical organizations to improve their accessibility. Where you draw the line between acceptable and despicable is a matter for your own moral compass, but it’s important to draw a line somewhere. There’s a lot of inaccessibility out there and you can’t help everyone. It’s also in your personal interest not to work with psychopaths.
+You will have opportunities to work on products that are inherently exploitative and addictive, trade in hatred or misinformation, or just make the world worse. These kinds of products, and the kind of psychotic enterprises that beget them, are resistant to any kind of reform, no matter what they might say. Don’t martyr yourself trying to redeem the irredeemable. Protect your reputation and mental health. There’s a lot of inaccessibility out there. Prioritize working with receptive people, on the kinds of products that deserve to exist in the first place.
