@@ -17,7 +17,7 @@ _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibi
 
 ## L’ennemi c’est la perfection
 
-Rien n’est –ni ne peut être– accessible à 100 %. Quiconque revendique une offre complètement accessible est un menteur, ou ne comprend pas l’accessibilité, ou les deux. Généralement c’est les deux. C’est ok de livrer un travail inaccessible, à condition qu’il soit _davantage_ accessible qu’avant. Faites ce que vous pouvez au sein des contraintes données. Si les contraintes ne sont pas raisonnables, commencez par les questionner. Vous pouvez ne pas vous sentir la meilleure personne disponible pour travailler sur l’accessibilité. Mais vous _êtes disponible_. Ne laissez pas le travail à des super-héro·ïnes de l’accessibilité qui sont absentes (et n’existent pas).
+Rien n’est – ni ne peut être – accessible à 100 %. Quiconque revendique une offre complètement accessible est un menteur, ou ne comprend pas l’accessibilité, ou les deux. Généralement c’est les deux. C’est ok de livrer un travail inaccessible, à condition qu’il soit _davantage_ accessible qu’avant. Faites ce que vous pouvez au sein des contraintes données. Si les contraintes ne sont pas raisonnables, commencez par les questionner. Vous pouvez ne pas vous sentir la meilleure personne disponible pour travailler sur l’accessibilité. Mais vous _êtes disponible_. Ne laissez pas le travail à des super-héro·ïnes de l’accessibilité qui sont absentes (et n’existent pas).
 
 ## Par défaut, ou la mort
 
@@ -25,7 +25,7 @@ Fondamentalement, l’accessibilité ne marche pas comme un <i lang="en">plugin<
 
 ## La Parité par-dessus tout
 
-Le but n’est pas de créer une meilleure expérience, ou même une bonne expérience. C’est de s’assurer que différentes personnes auront des expériences _comparables_. Une interface ne doit pas être problématique pour certaines mais pas pour les autres, même si certaines interfaces sont complexes et certains contenus ésotériques. Vous n’avez pas à choisir qui s’intéresse à ça –ou qui peut le gérer. Si une image montre une blague, le texte alternatif ne doit pas gâcher la blague ni expliquer ce qui est drôle. Il doit _raconter la même blague par des moyens alternatifs_. La blague pourrait être choquante pour certain·es, ou inexplicable pour d’autres. Ce sont des manquements en matière d’inclusion, pas d’accessibilité.
+Le but n’est pas de créer une meilleure expérience, ou même une bonne expérience. C’est de s’assurer que différentes personnes auront des expériences _comparables_. Une interface ne doit pas être problématique pour certaines mais pas pour les autres, même si certaines interfaces sont complexes et certains contenus ésotériques. Vous n’avez pas à choisir qui s’intéresse à ça – ou qui peut le gérer. Si une image montre une blague, le texte alternatif ne doit pas gâcher la blague ni expliquer ce qui est drôle. Il doit _raconter la même blague par des moyens alternatifs_. La blague pourrait être choquante pour certain·es, ou inexplicable pour d’autres. Ce sont des manquements en matière d’inclusion, pas d’accessibilité.
 
 ## Concevez pour l’implémentation
 
@@ -41,7 +41,7 @@ Renseigner des libellés de texte représente une proportion considérable de l�
 
 ## Les outils ne sont pas des identités
 
-Le handicap n’est pas plus uniforme que son absence. Différents utilisateurs de lecteurs d’écrans utilisent des lecteurs d’écrans différents de différentes manières pour différentes raisons dans des circonstances différentes pour satisfaire des besoins ou des préférences différentes. Et ça, c’est si elles utilisent un logiciel de lecteur d’écran. Il n’y a pas de persona qui puisse modéliser de manière adéquate un utilisateur de lecteur d’écran ou son comportement. Aucun utilisateur de lecteur d’écran ne parle au nom de tous les utilisateurs de lecteurs d’écran. Donc ne concevez pas pour “les utilisateurs de lecteurs d’écrans” (ou tout autre groupe homogène fictif). Concevez pour supporter les capacités des logiciels de lecteurs d’écrans. Les personnes ne peuvent –et ne doivent– pas être quantifiées, mais les entrées et sorties peuvent l’être et le sont.
+Le handicap n’est pas plus uniforme que son absence. Différents utilisateurs de lecteurs d’écrans utilisent des lecteurs d’écrans différents de différentes manières pour différentes raisons dans des circonstances différentes pour satisfaire des besoins ou des préférences différentes. Et ça, c’est si elles utilisent un logiciel de lecteur d’écran. Il n’y a pas de persona qui puisse modéliser de manière adéquate un utilisateur de lecteur d’écran ou son comportement. Aucun utilisateur de lecteur d’écran ne parle au nom de tous les utilisateurs de lecteurs d’écran. Donc ne concevez pas pour “les utilisateurs de lecteurs d’écrans” (ou tout autre groupe homogène fictif). Concevez pour supporter les capacités des logiciels de lecteurs d’écrans. Les personnes ne peuvent – et ne doivent – pas être quantifiées, mais les entrées et sorties peuvent l’être et le sont.
 
 ## Moins, c’est moins
 
