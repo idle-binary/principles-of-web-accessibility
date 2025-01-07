@@ -1,4 +1,4 @@
-# Principles Of Web Accessibility
+# Principes de l’accessibilité web
 
 _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibilité web._
 
