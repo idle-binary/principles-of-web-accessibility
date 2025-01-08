@@ -2,7 +2,7 @@
 
 _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibilité web._
 
-* [L’ennemi c’est la perfection](#l-ennemi-c-est-la-perfection)
+* [Le mieux est l’ennemi du bien](#le-mieux-est-l-ennemi-du-bien)
 * [Par défaut, ou la mort](#par-defaut-ou-la-mort)
 * [La Parité par-dessus tout](#la-parite-par-dessus-tout)
 * [Concevez pour l’implémentation](#concevez-pour-l-implementation)
@@ -15,7 +15,7 @@ _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibi
 * [Zéro point pour la performativité](#zero-point-pour-la-performativite)
 * [Abandonnez le mal à sa putréfaction](#abandonnez-le-mal-a-sa-putrefaction)
 
-## L’ennemi c’est la perfection
+## Le mieux est l’ennemi du bien
 
 Rien n’est – ni ne peut être – accessible à 100 %. Quiconque revendique une offre complètement accessible est un menteur, ou ne comprend pas l’accessibilité, ou les deux. Généralement c’est les deux. C’est ok de livrer un travail inaccessible, à condition qu’il soit _davantage_ accessible qu’avant. Faites ce que vous pouvez au sein des contraintes données. Si les contraintes ne sont pas raisonnables, commencez par les questionner. Vous pouvez ne pas vous sentir la meilleure personne disponible pour travailler sur l’accessibilité. Mais vous _êtes disponible_. Ne laissez pas le travail à des super-héro·ïnes de l’accessibilité qui sont absentes (et n’existent pas).
 
