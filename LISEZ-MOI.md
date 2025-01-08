@@ -21,7 +21,7 @@ Rien n’est – ni ne peut être – accessible à 100 %. Quiconque revendiq
 
 ## Par défaut, ou la mort
 
-Fondamentalement, l’accessibilité ne marche pas comme un <i lang="en">plugin</i>, un <i lang="en">add-on</i> ou un état à activer. Si une interface offre l’option d’_activer_ l’accessibilité, elle est inaccessible. Un bouton à faible contraste qui déclenche un contraste élevé ? <i lang="en">Game over</i>. De manière catégorique : une surcouche d’accessibilité ne marche pas et ne peut pas marcher. Ajouter _des trucs d’accessibilité_ par dessus _des trucs inaccessibles_ ne répond pas aux besoins qui doivent être satisfaits. Les fonctionnalités spécifiques offertes par ces intrus tiers sont immatérielles. Résistez à tout prix à l’idéologie de l’accessibilité _post-hoc_. Un Produit Minimum Viable (MVP) pas accessible n’atteint même pas la viabilité minimum.
+Fondamentalement, l’accessibilité ne marche pas comme un <i lang="en">plugin</i>, un <i lang="en">add-on</i> ou un état à activer. Si une interface offre l’option d’_activer_ l’accessibilité, elle est inaccessible. Un bouton à faible contraste qui déclenche un contraste élevé ? <i lang="en">Game over</i>. De manière catégorique : une surcouche d’accessibilité ne fonctionne pas et ne peut pas fonctionner. Ajouter _des trucs d’accessibilité_ par dessus _des trucs inaccessibles_ ne répond pas aux besoins qui doivent être satisfaits. Les fonctionnalités spécifiques offertes par ces intrus tiers sont immatérielles. Résistez à tout prix à l’idéologie de l’accessibilité _post-hoc_. Un Produit Minimum Viable (MVP) pas accessible n’atteint même pas la viabilité minimum.
 
 ## La même expérience avant tout
 
@@ -33,7 +33,7 @@ On dit que la forme doit suivre la fonction. Mais beaucoup d’organisations con
 
 ## D’abord, la structure
 
-Une interface mal structurée pourra techniquement être conforme aux <abbr>WCAG</abbr>  (Recommandations d’accessibilité des contenus Web). Une interface bien structurée et intuitive pourra comporter des erreurs de conformité multiples et distinctes. Mais il y a des chances que cette dernière soit l’interface accessible au plus grand nombre. Les outils d’accessibilité automatique ne sont vraiment bons qu’à repérer des erreurs isolées. Bien qu’ils puissent être utiles pour les diagnostics, vous devriez adopter une approche holistique. Qu’est-ce qui va troubler ou submerger les gens ? Où vont-ils se faire piéger ? Ne perdez pas de temps à cocher individuellement des critères de conformité lorsque la structure sous-jacente a besoin d’être repensée.
+Une interface mal structurée pourra techniquement être conforme aux <abbr>WCAG</abbr>  (Règles pour l’accessibilité des contenus Web). Une interface bien structurée et intuitive pourra comporter des erreurs de conformité multiples et distinctes. Mais il y a des chances que cette dernière soit l’interface accessible au plus grand nombre. Les outils d’accessibilité automatique ne sont vraiment bons qu’à repérer des erreurs isolées. Bien qu’ils puissent être utiles pour les diagnostics, vous devriez adopter une approche holistique. Qu’est-ce qui va troubler ou submerger les gens ? Où vont-ils se faire piéger ? Ne perdez pas de temps à cocher individuellement des critères de conformité lorsque la structure sous-jacente a besoin d’être repensée.
 
 ## Utilisez vos mots
 
@@ -45,7 +45,7 @@ Le handicap n’est pas plus uniforme que son absence. Différents utilisateurs 
 
 ## Moins, c’est moins
 
-Le mantra <i lang="en">less is more</i>, _moins c’est plus_, est faux. Moins, c’est juste moins, et c’est une bonne chose. Il y a trop de décisions techniques d’interfaces qui sont prises parce que d’autres l’ont fait, ou juste pour prouver que c’est possible. Stop. Plus on ajoute, plus le résultat est complexe, plus le risque est grand que ça échoue. Et pas juste en produisant des erreurs ou des pannes isolées ; mais surtout en résistant à la compréhension. Dans la majorité des cas, la plupart des composants devrait être juste du contenu. Le contenu ne devrait que rarement être caché derrière un bouton. Transformer des titres, des paragraphes ou des listes en une interface à onglets accessible n’est pas une amélioration. C’est une dégradation, juste pour se vanter.
+Le mantra <i lang="en">less is more</i>, _moins c’est plus_, est faux. Moins, c’est juste moins, et c’est une bonne chose. Il y a trop de décisions techniques d’interfaces qui sont prises parce que d’autres l’ont fait, ou juste pour prouver que c’est possible. Point. Plus on ajoute, plus le résultat est complexe, plus le risque est grand que ça échoue. Et pas juste en produisant des erreurs ou des pannes isolées ; mais surtout en résistant à la compréhension. Dans la majorité des cas, la plupart des composants devrait être juste du contenu. Le contenu ne devrait que rarement être caché derrière un bouton. Transformer des titres, des paragraphes ou des listes en une interface à onglets accessible n’est pas une amélioration. C’est une dégradation, juste pour se vanter.
 
 ## Faites-vous payer
 
