@@ -33,7 +33,7 @@ On dit que la forme doit suivre la fonction. Mais beaucoup d’organisations con
 
 ## D’abord, la structure
 
-Une interface mal structurée pourra techniquement être conforme aux <abbr>WCAG</abbr>  (Recommandations d'accessibilité des contenus Web). Une interface bien structurée et intuitive pourra comporter des erreurs de conformité multiples et distinctes. Mais il y a des chances que cette dernière soit l’interface accessible au plus grand nombre. Les outils d’accessibilité automatique ne sont vraiment bons qu’à repérer des erreurs isolées. Bien qu’ils puissent être utiles pour les diagnostics, vous devriez adopter une approche holistique. Qu’est-ce qui va troubler ou submerger les gens ? Où vont-ils se faire piéger ? Ne perdez pas de temps à cocher individuellement des critères de conformité lorsque la structure sous-jacente a besoin d’être repensée.
+Une interface mal structurée pourra techniquement être conforme aux <abbr>WCAG</abbr>  (Recommandations d’accessibilité des contenus Web). Une interface bien structurée et intuitive pourra comporter des erreurs de conformité multiples et distinctes. Mais il y a des chances que cette dernière soit l’interface accessible au plus grand nombre. Les outils d’accessibilité automatique ne sont vraiment bons qu’à repérer des erreurs isolées. Bien qu’ils puissent être utiles pour les diagnostics, vous devriez adopter une approche holistique. Qu’est-ce qui va troubler ou submerger les gens ? Où vont-ils se faire piéger ? Ne perdez pas de temps à cocher individuellement des critères de conformité lorsque la structure sous-jacente a besoin d’être repensée.
 
 ## Utilisez vos mots
 
@@ -53,7 +53,7 @@ Ne permettez pas qu’on vous exploite pour votre enthousiasme pour l’accessib
 
 ## La pèche, pas le poisson
 
-La conception de produits et interfaces accessibles commence par concevoir les organisations et communautés qui les feront. Tu peux faire du travail accessible aujourd’hui mais qui le fera demain ? Qui ou quoi pourrait le _défaire_ demain ? Concevoir accessible peut vouloir dire bâtir une équipe d’intégration composée de devs qui maîtrisent l’intégration. Ça peut vouloir dire décommissionner un CMS qui interdit la production de contenus accessibles. Ça peut vouloir dire enseigner à une équipe éditoriale comment structurer leurs contenus. Si vous réparez l’inaccessibilité par vous-même, votre impact va vite s’estomper.
+La conception de produits et interfaces accessibles commence par concevoir les organisations et communautés qui les feront. Vous pouvez faire du travail accessible aujourd’hui mais qui le fera demain ? Qui ou quoi pourrait le _défaire_ demain ? Concevoir accessible peut vouloir dire bâtir une équipe d’intégration composée de devs qui maîtrisent l’intégration. Ça peut vouloir dire décommissionner un CMS qui interdit la production de contenus accessibles. Ça peut vouloir dire enseigner à une équipe éditoriale comment structurer leurs contenus. Si vous réparez l’inaccessibilité par vous-même, votre impact va vite s’estomper.
 
 ## Zéro point pour la performativité
 
