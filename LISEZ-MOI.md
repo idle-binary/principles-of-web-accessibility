@@ -13,7 +13,7 @@ _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibi
 * [Fais-toi payer](#fais-toi-payer)
 * [La pèche, pas le poisson](#la-peche-pas-le-poisson)
 * [Zéro point pour la performativité](#zero-point-pour-la-performativite)
-* [Aidez à l’échec du mal](#aide-a-l-echec-du-mal)
+* [Abandonnez le mal à sa putréfaction](#abandonnez-le-mal-a-sa-putrefaction)
 
 ## L’ennemi c’est la perfection
 
@@ -59,6 +59,6 @@ La conception de produits et interfaces accessibles commence par concevoir les o
 
 Les entreprises ont tendance à préférer _avoir l’air_ d’améliorer l’accessibilité, plutôt que de réellement le faire. Elles recrutent des pros de l’accessibilité mais ne leur donnent pas les ressources nécessaires. Elles commissionnent des entretiens avec des personnes handicapées mais refusent d’interpréter les résultats. Elles payent pour des audits mais n’implémentent pas les recommandations. Elles vous disent que le contraste des couleurs doit être traité mais ne bougent pas sur le sujet sacré des couleurs de leur marque. Si vous voulez faire une réelle différence, exigez la pratique au lieu de la performativité.
 
-## Aidez à l’échec du mal
+## Abandonnez le mal à sa putréfaction
 
-Tout ce qui est inaccessible n’a pas à être accessible. Certaines choses ne devraient pas exister du tout. Si un produit ou une application est intrinsèquement abusive ou addictive, si elle produit de la désinformation ou de la haine, voire si simplement elle rajoute au malheur du monde, c’est mieux de la laisser être la cible d’un procès. Ne l’aidez pas à y échapper. Les propriétaires de tels produits ne méritent _aucun_ client ou utilisateur, et encore moins des personnes handicapées ou autrement marginalisées (qui pourraient être affectées de manière disproportionnée par ces pratiques douteuses). C’est votre jugement moral qui décide de la ligne entre l’acceptable et l’abject. Mais le fait de tracer une ligne quelque part contribue à la cohérence de votre offre en tant que praticien.
+Vous aurez l’opportunité de travailler sur des produits qui sont intrinsèquement abusifs ou addictifs, qui produisent de la désinformation ou de la haine, voire simplement qui rajoutent au malheur du monde. Ce genre de produits et les entreprises psychotiques qui les accouchent sont extrèmement résistantes à tout type de réforme, quoi qu’elles puissent vous dire. Ne vous martyrisez pas en tentant de sauver l’irrécupérable. Ne faites pas vôtre leur échec. Protégez votre réputation et votre santé mentale. Il y a beaucoup d’inaccessibilité. Travaillez en priorité avec des personnes réceptives, sur le genre de produits qui méritent d’exister.
