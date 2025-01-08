@@ -2,18 +2,18 @@
 
 _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibilité web._
 
-* [Le mieux est l’ennemi du bien](#le-mieux-est-l-ennemi-du-bien)
-* [Par défaut, ou la mort](#par-defaut-ou-la-mort)
-* [La Parité par-dessus tout](#la-parite-par-dessus-tout)
-* [Concevez pour l’implémentation](#concevez-pour-l-implementation)
-* [D’abord, la structure](#d-abord-la-structure)
+* [Le mieux est l’ennemi du bien](#le-mieux-est-lennemi-du-bien)
+* [Par défaut, ou la mort](#par-défaut-ou-la-mort)
+* [La Parité par-dessus tout](#la-parité-par-dessus-tout)
+* [Concevez pour l’implémentation](#concevez-pour-limplémentation)
+* [D’abord, la structure](#dabord-la-structure)
 * [Utilisez vos mots](#utilisez-vos-mots)
-* [Les outils ne sont pas des identités](#les-outils-ne-sont-pas-des-identites)
-* [Moins, c’est moins](#moins-c-est-moins)
+* [Les outils ne sont pas des identités](#les-outils-ne-sont-pas-des-identités)
+* [Moins, c’est moins](#moins-cest-moins)
 * [Faites-vous payer](#faites-vous-payer)
-* [La pèche, pas le poisson](#la-peche-pas-le-poisson)
-* [Zéro point pour la performativité](#zero-point-pour-la-performativite)
-* [Abandonnez le mal à sa putréfaction](#abandonnez-le-mal-a-sa-putrefaction)
+* [La pêche, pas le poisson](#la-pêche-pas-le-poisson)
+* [Zéro point pour la performativité](#zéro-point-pour-la-performativité)
+* [Abandonnez le mal à sa putréfaction](#abandonnez-le-mal-à-sa-putréfaction)
 
 ## Le mieux est l’ennemi du bien
 
@@ -51,7 +51,7 @@ Le mantra <i lang="en">less is more</i>, _moins c’est plus_, est faux. Moins, 
 
 Ne permettez pas qu’on vous exploite pour votre enthousiasme pour l’accessibilité. Comme tout travail, plus il y a de gens qui le font gratuitement, moins il a de valeur. Le travail d’accessibilité n’est pas un extra, un hobby, ou une faveur. C’est une partie fondamentale d’un design d’interface de qualité. Si on vous paye pour travailler et que vous travaillez sur l’accessibilité, elle doit être dans la définition de votre rôle. Le travail d’accessibilité doit être reconnu et récompensé comme n’importe quel autre boulot. Quand _“l’accessibilité est le travail de tout le monde”_, ça n’est vraiment celui de personne. Attention à ce genre de rhétorique.
 
-## La pèche, pas le poisson
+## La pêche, pas le poisson
 
 La conception de produits et interfaces accessibles commence par concevoir les organisations et communautés qui les feront. Vous pouvez faire du travail accessible aujourd’hui mais qui le fera demain ? Qui ou quoi pourrait le _défaire_ demain ? Concevoir accessible peut vouloir dire bâtir une équipe d’intégration composée de devs qui maîtrisent l’intégration. Ça peut vouloir dire décommissionner un CMS qui interdit la production de contenus accessibles. Ça peut vouloir dire enseigner à une équipe éditoriale comment structurer leurs contenus. Si vous réparez l’inaccessibilité par vous-même, votre impact va vite s’estomper.
 
