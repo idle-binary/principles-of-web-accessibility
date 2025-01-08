@@ -10,7 +10,7 @@ _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibi
 * [Utilisez vos mots](#utilisez-vos-mots)
 * [Les outils ne sont pas des identités](#les-outils-ne-sont-pas-des-identites)
 * [Moins, c’est moins](#moins-c-est-moins)
-* [Fais-toi payer](#fais-toi-payer)
+* [Faites-vous payer](#faites-vous-payer)
 * [La pèche, pas le poisson](#la-peche-pas-le-poisson)
 * [Zéro point pour la performativité](#zero-point-pour-la-performativite)
 * [Abandonnez le mal à sa putréfaction](#abandonnez-le-mal-a-sa-putrefaction)
@@ -47,7 +47,7 @@ Le handicap n’est pas plus uniforme que son absence. Différents utilisateurs 
 
 Le mantra <i lang="en">less is more</i>, _moins c’est plus_, est faux. Moins, c’est juste moins, et c’est une bonne chose. Il y a trop de décisions techniques d’interfaces qui sont prises parce que d’autres l’ont fait, ou juste pour prouver que c’est possible. Stop. Plus on ajoute, plus le résultat est complexe, plus le risque est grand que ça échoue. Et pas juste en produisant des erreurs ou des pannes isolées ; mais surtout en résistant à la compréhension. Dans la majorité des cas, la plupart des composants devrait être juste du contenu. Le contenu ne devrait que rarement être caché derrière un bouton. Transformer des titres, des paragraphes ou des listes en une interface à onglets accessible n’est pas une amélioration. C’est une dégradation, juste pour se vanter.
 
-## Fais-toi payer
+## Faites-vous payer
 
 Ne permettez pas qu’on vous exploite pour votre enthousiasme pour l’accessibilité. Comme tout travail, plus il y a de gens qui le font gratuitement, moins il a de valeur. Le travail d’accessibilité n’est pas un extra, un hobby, ou une faveur. C’est une partie fondamentale d’un design d’interface de qualité. Si on vous paye pour travailler et que vous travaillez sur l’accessibilité, elle doit être dans la définition de votre rôle. Le travail d’accessibilité doit être reconnu et récompensé comme n’importe quel autre boulot. Quand _“l’accessibilité est le travail de tout le monde”_, ça n’est vraiment celui de personne. Attention à ce genre de rhétorique.
 
