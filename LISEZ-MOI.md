@@ -12,7 +12,7 @@ _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibi
 * [Moins, c’est moins](#moins-cest-moins)
 * [Faites-vous payer](#faites-vous-payer)
 * [La pêche, pas le poisson](#la-pêche-pas-le-poisson)
-* [Zéro point pour la performativité](#zéro-point-pour-la-performativité)
+* [Zéro pointé pour la gesticulation](#zéro-pointé-pour-la-gesticulation)
 * [Abandonnez le mal à sa putréfaction](#abandonnez-le-mal-à-sa-putréfaction)
 
 ## Le mieux est l’ennemi du bien
@@ -55,9 +55,9 @@ Ne permettez pas qu’on vous exploite pour votre enthousiasme pour l’accessib
 
 La conception de produits et interfaces accessibles commence par concevoir les organisations et communautés qui les feront. Vous pouvez faire du travail accessible aujourd’hui mais qui le fera demain ? Qui ou quoi pourrait le _défaire_ demain ? Concevoir accessible peut vouloir dire bâtir une équipe d’intégration composée de devs qui maîtrisent l’intégration. Ça peut vouloir dire décommissionner un CMS qui interdit la production de contenus accessibles. Ça peut vouloir dire enseigner à une équipe éditoriale comment structurer leurs contenus. Si vous réparez l’inaccessibilité par vous-même, votre impact va vite s’estomper.
 
-## Zéro point pour la performativité
+## Zéro pointé pour la gesticulation
 
-Les entreprises ont tendance à préférer _avoir l’air_ d’améliorer l’accessibilité, plutôt que de réellement le faire. Elles recrutent des pros de l’accessibilité mais ne leur donnent pas les ressources nécessaires. Elles commissionnent des entretiens avec des personnes handicapées mais refusent d’interpréter les résultats. Elles payent pour des audits mais n’implémentent pas les recommandations. Elles vous disent que le contraste des couleurs doit être traité mais ne bougent pas sur le sujet sacré des couleurs de leur marque. Si vous voulez faire une réelle différence, exigez la pratique au lieu de la performativité.
+Les entreprises ont tendance à préférer _avoir l’air_ d’améliorer l’accessibilité, plutôt que de réellement le faire. Elles recrutent des pros de l’accessibilité mais ne leur donnent pas les ressources nécessaires. Elles commissionnent des entretiens avec des personnes handicapées mais refusent d’interpréter les résultats. Elles payent pour des audits mais n’implémentent pas les recommandations. Elles vous disent que le contraste des couleurs doit être traité mais ne bougent pas sur le sujet sacré des couleurs de leur marque. Si vous voulez faire une réelle différence, exigez les actions concrètes au lieu de gesticulations performatives.
 
 ## Abandonnez le mal à sa putréfaction
 
