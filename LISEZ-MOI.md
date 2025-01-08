@@ -4,7 +4,7 @@ _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibi
 
 * [Le mieux est l’ennemi du bien](#le-mieux-est-lennemi-du-bien)
 * [Par défaut, ou la mort](#par-défaut-ou-la-mort)
-* [La Parité par-dessus tout](#la-parité-par-dessus-tout)
+* [La même expérience avant tout](#la-même-expérience-avant-tout)
 * [Concevez pour l’implémentation](#concevez-pour-limplémentation)
 * [D’abord, la structure](#dabord-la-structure)
 * [Utilisez vos mots](#utilisez-vos-mots)
@@ -23,7 +23,7 @@ Rien n’est – ni ne peut être – accessible à 100 %. Quiconque revendiq
 
 Fondamentalement, l’accessibilité ne marche pas comme un <i lang="en">plugin</i>, un <i lang="en">add-on</i> ou un état à activer. Si une interface offre l’option d’_activer_ l’accessibilité, elle est inaccessible. Un bouton à faible contraste qui déclenche un contraste élevé ? <i lang="en">Game over</i>. De manière catégorique : une surcouche d’accessibilité ne marche pas et ne peut pas marcher. Ajouter _des trucs d’accessibilité_ par dessus _des trucs inaccessibles_ ne répond pas aux besoins qui doivent être satisfaits. Les fonctionnalités spécifiques offertes par ces intrus tiers sont immatérielles. Résistez à tout prix à l’idéologie de l’accessibilité _post-hoc_. Un Produit Minimum Viable (MVP) pas accessible n’atteint même pas la viabilité minimum.
 
-## La Parité par-dessus tout
+## La même expérience avant tout
 
 Le but n’est pas de créer une meilleure expérience, ou même une bonne expérience. C’est de s’assurer que différentes personnes auront des expériences _comparables_. Une interface ne doit pas être problématique pour certaines mais pas pour les autres, même si certaines interfaces sont complexes et certains contenus ésotériques. Vous n’avez pas à choisir qui s’intéresse à ça – ou qui peut le gérer. Si une image montre une blague, le texte alternatif ne doit pas gâcher la blague ni expliquer ce qui est drôle. Il doit _raconter la même blague par des moyens alternatifs_. La blague pourrait être choquante pour certain·es, ou inexplicable pour d’autres. Ce sont des manquements en matière d’inclusion, pas d’accessibilité.
 
