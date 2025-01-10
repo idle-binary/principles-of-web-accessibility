@@ -17,7 +17,7 @@ _A set of high-level guiding principles for approaching web accessibility._
 
 ## Perfection is the enemy
 
-Nothing is—nor can be—100% accessible. Anyone who claims their offering is completely accessible is a liar, or they don't understand accessibility, or both. Usually both. It's okay to deliver inaccessible work, so long as it’s _more_ accessible. Do what you can within the constraints given. If the constraints are unreasonable, challenge those first. You may not feel confident you are always the best person available to work on accessibility. But you _are available_. Don’t leave the work to absent (and nonexistent) accessibility superheroes. 
+Nothing is—nor can be—100% accessible. Anyone who claims their offering is completely accessible is a liar, or they don’t understand accessibility, or both. Usually both. It’s okay to deliver inaccessible work, so long as it’s _more_ accessible. Do what you can within the constraints given. If the constraints are unreasonable, challenge those first. You may not feel confident you are always the best person available to work on accessibility. But you _are available_. Don’t leave the work to absent (and nonexistent) accessibility superheroes. 
 
 ## By default or death
 
