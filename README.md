@@ -53,7 +53,7 @@ Don’t let your enthusiasm for accessibility work be exploited. Like any work, 
 
 ## Fishing, not fish
 
-Designing accessible products and interfaces starts with designing the organizations and communities that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might _undo_ it tomorrow? Accessible design might mean building a frontend team consisting of developers well-versed in the frontend. It might mean retiring a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you’re fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
+Designing accessible products and interfaces starts with designing the organizations and communities that deliver them. You can deliver accessible work today but who will do it tomorrow? Who or what might _undo_ it tomorrow? Accessible design might mean building a frontend team consisting of developers well-versed in the frontend. It might mean replacing a CMS that prohibits accessible output. It might mean briefing editorial staff in how to structure their content. If you’re fixing inaccessibility yourself, by yourself, your impact will quickly fade. 
 
 ## No points for performance
 
