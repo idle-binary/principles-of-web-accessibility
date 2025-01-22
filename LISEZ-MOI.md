@@ -3,17 +3,17 @@
 _Un ensemble de principes directeurs de haut niveau pour approcher l’accessibilité web._
 
 * [Le mieux est l’ennemi du bien](#le-mieux-est-lennemi-du-bien)
-* [Par défaut, ou la mort](#par-défaut-ou-la-mort)
+* [Par défaut, ou c’est foutu](#par-défaut-ou-cest-foutu)
 * [La même expérience avant tout](#la-même-expérience-avant-tout)
 * [Concevez pour l’implémentation](#concevez-pour-limplémentation)
 * [D’abord, la structure](#dabord-la-structure)
-* [Utilisez vos mots](#utilisez-vos-mots)
+* [Choisir ses mots](#choisir-ses-mots)
 * [Les outils ne sont pas des identités](#les-outils-ne-sont-pas-des-identités)
 * [Moins, c’est moins](#moins-cest-moins)
 * [Faites-vous payer](#faites-vous-payer)
 * [La pêche, pas le poisson](#la-pêche-pas-le-poisson)
 * [Zéro pointé pour la gesticulation](#zéro-pointé-pour-la-gesticulation)
-* [Abandonnez le mal à sa putréfaction](#abandonnez-le-mal-à-sa-putréfaction)
+* [Laissez pourrir le mal](#laissez-pourrir-le-mal)
 
 ## Le mieux est l’ennemi du bien
 
