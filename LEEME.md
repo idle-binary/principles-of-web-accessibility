@@ -17,7 +17,7 @@ _Una serie de guías y reglas a alto nivel para afrontar la accesibilidad web._
 
 ## Lo perfecto es enemigo de lo bueno
 
-Nada es —ni puede ser— 100% accesible. La persona que afirme que su propuesta es completamente accesible está mintiendo, no entiende de accesibilidad o las dos cosas. Normalmente las dos. Está bien completar un trabajo que no es accesible del todo, siempre que sea _más_ accesible. Haz lo que puedas dentro de las condiciones dadas. Si las condiciones no son razonables, cuestiónalas primero. Puede que no tengas la confianza en ser la mejor persona disponible para trabajar en accesibilidad. Pero _estás disponible_. No dejes ese trabajo para otros superhéroes de la accesibilidad que no están (o son inexistentes).
+Nada es ni puede ser 100% accesible. La persona que afirme que su propuesta es completamente accesible está mintiendo, no entiende de accesibilidad o las dos cosas. Normalmente las dos. Está bien completar un trabajo que no es accesible del todo, siempre que sea _más_ accesible. Haz lo que puedas dentro de las condiciones dadas. Si las condiciones no son razonables, cuestiónalas primero. Puede que no tengas la confianza en ser la mejor persona disponible para trabajar en accesibilidad. Pero _estás disponible_. No dejes ese trabajo para otros superhéroes de la accesibilidad que no están (o son inexistentes).
 
 ## Por defecto o nada
 
