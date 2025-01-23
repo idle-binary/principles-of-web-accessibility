@@ -33,7 +33,7 @@ Dicen que la forma debería adecuarse a la función. Pero la mayoría de las org
 
 ## La estructura es lo primero
 
-Una interfaz mal estructurada puede técnicamente pasar los requisitos WCAG. Una interfaz intuitiva y bien estructurada puede tener algunos errores específicos de WCAG. Pero lo más seguro es que esta última sea una interfaz más accesible para la mayoría. Las herramientas automatizadas de accesibilidad son muy buenas localizando estos errores específicos. Aunque puede ser útiles para diagnosticar problemas, debes plantearte un enfoque integral y completo. ¿Qué confunde o agobia a la gente? ¿Dónde tropezarán? No pierdas tiempo solucionando criterios específicos cuando puede que necesites replantearte la estructura básica.
+Una interfaz mal estructurada puede técnicamente pasar los requisitos WCAG. Una interfaz intuitiva y bien estructurada puede tener algunos errores específicos de WCAG. Pero lo más seguro es que esta última sea una interfaz más accesible para la mayoría. Las herramientas automatizadas de accesibilidad son muy buenas localizando estos errores específicos. Aunque pueden ser útiles para diagnosticar problemas, debes plantearte un enfoque integral y completo. ¿Qué confunde o agobia a la gente? ¿Dónde tropezarán? No pierdas tiempo solucionando criterios específicos cuando puede que necesites replantearte la estructura básica.
 
 ## Usa tus palabras
 
@@ -57,7 +57,7 @@ El diseño de productos e interfaces accesibles comienza con el diseño de la or
 
 ## No vale presumir
 
-Las compañías tienden a priorizar que _parezca_ que están centrándose en la accesibilidad más que hacer algo en sí. Contratan a profesionales de la accesibilidad y no le dan los recursos necesarios. Contratan estudios con participantes con discapacidades y rechazan interpretar sus comentarios. Pagan por auditorías y no implementan sus recomendaciones. Te dicen que el contraste de colores debe examinarse, pero los colores de su marca son sagrados y no se cambian. Si realmente quieres marcar la diferencia, pide hechos en lugar de actuaciones de cara a la galería.
+Las compañías tienden a priorizar que _parezca_ que están centrándose en la accesibilidad más que hacer algo en sí. Contratan a profesionales de la accesibilidad y no les dan los recursos necesarios. Contratan estudios con participantes con discapacidades y rechazan interpretar sus comentarios. Pagan por auditorías y no implementan sus recomendaciones. Te dicen que el contraste de colores debe examinarse, pero los colores de su marca son sagrados y no se cambian. Si realmente quieres marcar la diferencia, pide hechos en lugar de actuaciones de cara a la galería.
 
 ## Que se pudra el mal
 
