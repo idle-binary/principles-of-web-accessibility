@@ -17,7 +17,7 @@ _Una serie de guías y reglas a alto nivel para afrontar la accesibilidad web._
 
 ## Lo perfecto es enemigo de lo bueno
 
-Nada es —ni puede ser— 100% accesible. La persona que afirme que su propuesta es completamente accesible está mintiendo, no entiende de accesibilidad, o las dos cosas. Normalmente las dos. Está bien completar trabajo que no es accesible del todo, siempre que sea _más_ accesible. Haz lo que puedas dentro de las condiciones dadas. Si las condiciones no son razonables, cuestiónalas primero. Puede que no confíes en ser la mejor persona disponible para trabajar en accesibilidad. Pero _estás disponible_. No dejes ese trabajo para otros superhéroes de la accesibilidad ausentes (o inexistentes).
+Nada es —ni puede ser— 100% accesible. La persona que afirme que su propuesta es completamente accesible está mintiendo, no entiende de accesibilidad, o las dos cosas. Normalmente las dos. Está bien completar un trabajo que no es accesible del todo, siempre que sea _más_ accesible. Haz lo que puedas dentro de las condiciones dadas. Si las condiciones no son razonables, cuestiónalas primero. Puede que no tengas la confianza en ser la mejor persona disponible para trabajar en accesibilidad. Pero _estás disponible_. No dejes ese trabajo para otros superhéroes de la accesibilidad que no están (o son inexistentes).
 
 ## Por defecto o nada
 
@@ -29,7 +29,7 @@ La idea no es crear una experiencia mejor, ni siquiera una buena experiencia. Se
 
 ## Diseña para la implementación
 
-Dicen que la forma debería adecuarse a la función. Pero la mayoría de las organizaciones diseñan primero y desarrollan después. La fase de diseño consiste en ideas puramente gráficas y deja demasiadas preguntas sin respuesta para la implementación. En consecuencia, se anima a los programadores a dar prioridad a aproximaciones visuales por encima de la usabilidad. Las interfaces que usan el ratón para arrastrar elementos deben ser operativas también a través del teclado. Eso significa que debe haber botones. Esos botones deben aparecer en lo que se llama _diseño_. Como un profesional de la accesibilidad, debes contribuir pronto y a nivel conceptual. Porque la forma debe adecuarse a la función y la función debe ser accesible.
+Dicen que la forma debería adecuarse a la función. Pero la mayoría de las organizaciones diseñan primero y desarrollan después. La fase de diseño consiste en ideas puramente gráficas y deja demasiadas preguntas sin respuesta para la implementación. En consecuencia, se anima a los programadores a dar prioridad a aproximaciones visuales por encima de la usabilidad. Las interfaces que usan el ratón para arrastrar elementos deben ser operativas también a través del teclado. Eso significa que debe haber botones. Esos botones deben aparecer en lo que se llama _diseño_. Como un profesional de la accesibilidad, debes contribuir cuanto antes y a nivel conceptual. Porque la forma debe adecuarse a la función y la función debe ser accesible.
 
 ## La estructura es lo primero
 
@@ -49,7 +49,7 @@ El lema _menos es más_ es incorrecto. Menos es solo menos y eso es bueno. Mucha
 
 ## Que te paguen
 
-No dejes que exploten tu entusiasmo por la accesibilidad. Como cualquier otro trabajo, mientras más gente lo haga de forma gratuita, menos se valorará. Las tareas de accesibilidad no son un extra opcional, un hobby o un acto de generosidad. Es una parte fundamental en el diseño de una interfaz sólida. Si te pagan por trabajar y trabajas en accesibilidad, debería estar definido como parte de tu puesto. El trabajo en accesibilidad debe remunerarse y recompensarse como cualquier otro trabajo. Cuando la _"accesibilidad es trabajo de todos"_, normalmente no es trabajo de nadie. Ten cuidado con esa retórica. 
+No dejes que exploten tu entusiasmo por la accesibilidad. Como cualquier otro trabajo, cuanta más gente lo haga de forma gratuita, menos se valorará. Las tareas de accesibilidad no son un extra opcional, un hobby o un acto de generosidad. Es una parte fundamental en el diseño de una interfaz sólida. Si te pagan por trabajar y trabajas en accesibilidad, debería estar definido como parte de tu puesto. El trabajo en accesibilidad debe remunerarse y recompensarse como cualquier otro trabajo. Cuando la _"accesibilidad es trabajo de todos"_, normalmente no es trabajo de nadie. Ten cuidado con esa retórica. 
 
 ## Enseña a pescar, no des pescado
 
