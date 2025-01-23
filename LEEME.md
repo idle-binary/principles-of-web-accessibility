@@ -11,7 +11,7 @@ _Una serie de guías y reglas a alto nivel para afrontar la accesibilidad web._
 * [Las herramientas no son identidades](#las-herramientas-no-son-identidades)
 * [Menos es menos](#menos-es-menos)
 * [Que te paguen](#que-te-paguen)
-* [Enseña a pescar, no des pescado](#enseña-a-pescar,-no-des-pescado)
+* [Enseña a pescar, no des pescado](#enseña-a-pescar-no-des-pescado)
 * [No vale presumir](#no-vale-presumir)
 * [Que se pudra el mal](#que-se-pudra-el-mal)
 
