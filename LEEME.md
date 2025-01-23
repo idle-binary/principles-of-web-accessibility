@@ -21,7 +21,7 @@ Nada es ni puede ser 100% accesible. La persona que afirme que su propuesta es c
 
 ## Por defecto o nada
 
-Básicamente, la accesibilidad no funciona como un plugin, un add-on o una subscripción. Si una interfaz ofrece una opción para _habilitar_ la accesibilidad, esa interfaz no es accesible. ¿Un botón con bajo contraste para activar el modo de alto contraste? No. Una capa de accesibilidad por encima no funciona y no puede funcionar. Añadir _cosas accesibles_ sobre _cosas no accesibles_ no aborda las necesidades que deben abordarse. Las prestaciones que ofrecen esos intrusos como tercera parte son irrelevantes. Lucha contra la ideología de la accesibilidad _a posteriori_ a toda costa. Un Producto Mínimo y Viable (MVP) sin accesibilidad ni es mínimo ni es viable.
+Básicamente, la accesibilidad no funciona como un plugin, un add-on o una subscripción. Si una interfaz ofrece una opción para _habilitar_ la accesibilidad, esa interfaz no es accesible. ¿Un botón con bajo contraste para activar el modo de alto contraste? No. El software para superponer una capa de accesibilidad no funciona y no puede funcionar. Añadir _cosas accesibles_ sobre _cosas no accesibles_ no aborda las necesidades que deben abordarse. Las prestaciones que ofrecen esos intrusos como tercera parte son irrelevantes. Lucha contra la ideología de la accesibilidad _a posteriori_ a toda costa. Un Producto Mínimo y Viable (MVP) sin accesibilidad ni es mínimo ni es viable.
 
 ## La paridad es primordial
 
