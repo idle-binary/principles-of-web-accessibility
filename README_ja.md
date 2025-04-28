@@ -70,7 +70,7 @@ _ウェブアクセシビリティへのアプローチに関するハイレベ�
 - 太田 良典（[@bakera](https://x.com/bakera) / 弁護士ドットコム株式会社）
 - 大山 奥人（[@okuto_oyama](https://x.com/okuto_oyama) / 株式会社Schoo）
 - 坂巻 舞羽（[@mt_dew2](https://x.com/mt_dew2)）
-- 杉吉 真奈（[@maddyscode](https://x.com/maddyscode)）
+- 杉吉 真奈（[@manasugiyoshi](https://x.com/manasugiyoshi)）
 - 高井 実（[@debiru_R](https://x.com/debiru_R)）
 - 田中 泰斗（[@taitotnk](https://x.com/taitotnk)）
 - 田中 美和（[@miwa11y](https://x.com/miwa11y)）
