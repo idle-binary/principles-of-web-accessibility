@@ -53,7 +53,7 @@ Ne laissez pas votre enthousiasme pour les travaux d’accessibilité être expl
 
 ## La pêche, pas le poisson
 
-La conception de produits et interfaces accessibles commence par concevoir les organisations et communautés qui les feront. Vous pouvez faire du travail accessible aujourd’hui mais qui le fera demain ? Qui ou quoi pourrait le _défaire_ demain ? Concevoir accessible peut vouloir dire bâtir une équipe d’intégration composée de devs qui maîtrisent l’intégration. Ça peut vouloir dire décommissionner un CMS qui interdit la production de contenus accessibles. Ça peut vouloir dire enseigner à une équipe éditoriale comment structurer leurs contenus. Si vous réparez l’inaccessibilité par vous-même, votre impact va vite s’estomper.
+La conception de produits et interfaces accessibles commence par concevoir les organisations et communautés qui les feront. Vous pouvez faire du travail accessible aujourd’hui mais qui le fera demain ? Qui ou quoi pourrait le _défaire_ demain ? Concevoir accessible peut vouloir dire bâtir une équipe d’intégration composée de devs qui maîtrisent l’intégration. Ça peut vouloir dire remplacer un CMS qui interdit la production de contenus accessibles. Ça peut vouloir dire enseigner à une équipe éditoriale comment structurer leurs contenus. Si vous réparez l’inaccessibilité par vous-même, votre impact va vite s’estomper.
 
 ## Zéro pointé pour la gesticulation
 
@@ -61,4 +61,4 @@ Les entreprises ont tendance à préférer _avoir l’air_ d’améliorer l’ac
 
 ## Laissez pourrir le mal
 
-Vous aurez l’opportunité de travailler sur des produits qui sont intrinsèquement abusifs ou addictifs, qui produisent de la désinformation ou de la haine, voire simplement qui rajoutent au malheur du monde. Ce genre de produits et les entreprises psychotiques qui les accouchent sont extrêmement résistantes à tout type de réforme, quoi qu’elles puissent vous dire. Ne vous martyrisez pas en tentant de sauver l’irrécupérable. Ne faites pas de leur échec le vôtre. Protégez votre réputation et votre santé mentale. L’inaccessibilité est partout. Travaillez en priorité avec des personnes réceptives, sur le genre de produits qui méritent d’exister.
+Vous aurez l’opportunité de travailler sur des produits qui sont intrinsèquement abusifs ou addictifs, qui produisent de la désinformation ou de la haine, voire simplement qui rajoutent au malheur du monde. Ce genre de produits et les entreprises psychopathes qui les accouchent sont extrêmement résistantes à tout type de réforme, quoi qu’elles puissent vous dire. Ne vous martyrisez pas en tentant de sauver l’irrécupérable. Ne faites pas de leur échec le vôtre. Protégez votre réputation et votre santé mentale. L’inaccessibilité est partout. Travaillez en priorité avec des personnes réceptives, sur le genre de produits qui méritent d’exister.
