@@ -3,7 +3,7 @@
 _Ein Satz an übergeordneten Leitprinzipien für den Umgang mit Barrierefreiheit im Web._
 
 -   [Perfektion ist der Feind](#perfektion-ist-der-feind)
--   [Standard oder Tod](#standard-oder-tod)
+-   [Standardmäßig oder Tod](#standardmäßig-oder-tod)
 -   [Gleichwertigkeit ist oberstes Gebot](#gleichwertigkeit-ist-oberstes-gebot)
 -   [Design für die Umsetzung](#design-für-die-umsetzung)
 -   [Struktur zuerst](#struktur-zuerst)
@@ -19,7 +19,7 @@ _Ein Satz an übergeordneten Leitprinzipien für den Umgang mit Barrierefreiheit
 
 Nichts ist – und kann – zu 100 % barrierefrei sein. Wer das behauptet, lügt oder versteht Barrierefreiheit nicht – meist beides. Es ist in Ordnung, nicht vollständig barrierefreie Arbeit abzuliefern, solange sie _barrierefreier_ ist. Tu, was im Rahmen der Gegebenheiten möglich ist. Wenn die Rahmenbedingungen unzumutbar sind, stell diese zuerst infrage. Du denkst vielleicht, du bist nicht die perfekte Person für Barrierefreiheit – aber _du bist da_. Verlass dich nicht auf abwesende (oder nicht existierende) Barrierefreiheits-Superheld\*innen.
 
-## Standard oder Tod
+## Standardmäßig oder Tod
 
 Barrierefreiheit funktioniert nicht als Plugin, Add-on oder Opt-in. Wenn eine Oberfläche anbietet, Barrierefreiheit zu _aktivieren_, ist sie nicht barrierefrei. Ein Schalter mit zu wenig Kontrast, der hohen Kontrast „einschaltet“? Game over. Barrierefreiheit im Nachhinein drüberzustülpen funktioniert grundsätzlich nicht. Die konkreten Features solcher Third-Party-Overlays sind irrelevant. Wehre dich konsequent gegen diese _nachträgliche_ Denkweise. Ein MVP ohne Barrierefreiheit ist nicht – auch nicht minimal – „viabel“.
 
@@ -41,7 +41,7 @@ Ein großer Teil von Barrierefreiheit bedeutet: Texte bereitstellen. Buttons, Li
 
 ## Tools sind keine Identitäten
 
-Behinderung ist genauso wenig einheitlich wie Fähigkeit. Screenreader-Nutzer*innen nutzen verschiedene Tools, auf verschiedene Arten, für verschiedene Zwecke. Es gibt *nicht* den typischen Screenreader-User. Also: Designe nicht *für* Screenreader-Nutzer*innen – designe _für die Fähigkeiten_ von Screenreadern. Menschen kann man nicht quantifizieren – Inputs und Outputs schon.
+Eingeschränkt sein ist genauso wenig wie nicht eingeschränkt sein. Screenreader-Nutzer*innen nutzen verschiedene Tools, auf verschiedene Arten, für verschiedene Zwecke. Es gibt *nicht* den typischen Screenreader-User. Also: Designe nicht *für* Screenreader-Nutzer*innen – designe _für die Fähigkeiten_ von Screenreadern. Menschen kann man nicht quantifizieren – Inputs und Outputs schon.
 
 ## Weniger ist weniger
 
@@ -49,7 +49,7 @@ Behinderung ist genauso wenig einheitlich wie Fähigkeit. Screenreader-Nutzer*in
 
 ## Werde bezahlt
 
-Lass deine Leidenschaft für Barrierefreiheit nicht ausnutzen. Wie jede Arbeit verliert auch Accessibility-Arbeit an Wert, wenn sie gratis gemacht wird. Es ist kein Bonus, kein Hobby, keine Wohltat. Es ist _essentieller_ Teil von UI-Design. Wenn du dafür bezahlt wirst, musst du dafür auch offiziell zuständig sein. Accessibility gehört in die Rollenbeschreibung. Wenn „alle zuständig“ sind, ist oft niemand zuständig. Achtung vor diesem Slogan.
+Lass deine Leidenschaft für Barrierefreiheit nicht ausnutzen. Wie jede Arbeit verliert auch Accessibility-Arbeit an Wert, wenn sie gratis gemacht wird. Es ist kein Bonus, kein Hobby, keine Wohltat. Es ist _essentieller_ Teil von UI-Design. Wenn du dafür bezahlt wirst, musst du dafür auch offiziell zuständig sein. Accessibility gehört in die Rollenbeschreibung. Wenn „alle zuständig“ sind, ist oft niemand zuständig. Hüte dich vor dieser Rhetorik.
 
 ## Angeln, nicht Fische geben
 
